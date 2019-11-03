@@ -7,4 +7,11 @@ In this Project I have used two Deep Learning Architectures:-
 
 2)DenseNet(DenseNet121)
 
+#Residual Neural Network(ResNet)
+
+The core idea of ResNet is introducing a so-called “identity shortcut connection” that skips one or more layers, as shown in the following figure:
+
+
+
+
 
