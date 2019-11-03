@@ -3,9 +3,9 @@ This project focuses on the investigation and development of algorithms associat
 
 In this Project I have used two Deep Learning Architectures:-
 
-1)Residual Neural Network(ResNet50)
+1. Residual Neural Network(ResNet50)
 
-2)DenseNet(DenseNet121)
+2. DenseNet(DenseNet121)
 
 ## Residual Neural Network(ResNet)
 
