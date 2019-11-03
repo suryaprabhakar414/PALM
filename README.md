@@ -1,5 +1,11 @@
 # PALM(Pathological Myopia)
-This project focuses on the investigation and development of algorithms associated with the diagnosis of Pathological Myopia in fundus photos from PM patients. The goal of the project is to evaluate and compare Deep Learning algorithms for the detection of pathological myopia on a common dataset of retinal fundus images. 
+
+Pathological or Degenerative Myopia is quite different from the simple refractive myopia or nearsightedness that affects so many people around the world. Pathological myopia is an extremely high amount of nearsightedness that causes a major alteration of the shape or globe of the eye, which may lead to profound vision loss. Pathological myopia causes the eye to elongate, which in turn stretches and thins the retina and the sclera of the eye. This leads to a bulging of the posterior portion of the eyeball.
+
+![alt text](https://images.squarespace-cdn.com/content/v1/52c9aac2e4b0ef830a22e002/1391735930833-9IPX37G07IBZ295Y08NV/ke17ZwdGBToddI8pDm48kJ7IdKXPYAEhE9WR4yBGzqVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-vBBtjjpcuJwmFyrVZD0BuVy_5rmmmAta3U8h3a_D1KxQ/myopic_mac_degen.jpg?format=500w)
+
+This project focuses on the investigation and development of algorithms associated with the diagnosis of Pathological Myopia in fundus photos from PM patients. The goal of the project is to evaluate and compare Deep Learning algorithms for the detection of pathological myopia on a common dataset of retinal fundus images.
+
 
 In this Project I have used two Deep Learning Architectures:-
 
