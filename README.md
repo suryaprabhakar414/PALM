@@ -7,11 +7,11 @@ In this Project I have used two Deep Learning Architectures:-
 
 2)DenseNet(DenseNet121)
 
-#Residual Neural Network(ResNet)
+# Residual Neural Network(ResNet)
 
-The core idea of ResNet is introducing a so-called “identity shortcut connection” that skips one or more layers, as shown in the following figure:
+The core idea of ResNet is introducing a so-called “identity shortcut connection” that skips one or more layers. These shortcut connection or skip connections are used to solve tne vanishing gradient problem.
 
-
+![alt text](https://miro.medium.com/max/510/1*ByrVJspW-TefwlH7OLxNkg.png)
 
 
 
