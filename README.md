@@ -22,6 +22,23 @@ The formulation of F(x)+x can be realized by feedforward neural networks with sh
 
 In this project I have used ResNet-50 which contains 50 parameter layers.
 
+## DenseNet
+
+DenseNet architecture is a logical extension of ResNet. While ResNet uses skip connections which every alternative layer i.e. you merge (additive) a previous layer into a future layer, DenseNet on the other hand connects each layer to every other layer in a feed-forward fashion i.e. concatenating outputs from the previous layers instead of using the summation.
+
+Traditional convolutional networks with L layers have L connections — one between each layer and its subsequent layer — DenseNet has L(L+1)/ 2 direct connections. For each layer, the feature-maps of all preceding layers are used as inputs, and its own feature-maps are used as inputs into all subsequent layers.
+
+![alt text](https://miro.medium.com/max/593/1*GeK21UAbk4lEnNHhW_dgQA.png)
+ 
+ As we can see from the Figure, how DensNet connects each layer to every other layer. DenseNets have several  advantages:
+* They alleviate the vanishing-gradient problem.
+* Strengthen feature propagation.
+* Encourage feature reuse.
+* Substantially reduce the number of parameters.
+
+In this project I have used DenseNet-121 which contains 121 parameter layers.
+
+
 
 
 
