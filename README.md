@@ -7,7 +7,7 @@ Pathological or Degenerative Myopia is quite different from the simple refractiv
 This project focuses on the investigation and development of algorithms associated with the diagnosis of Pathological Myopia in fundus photos from PM patients. The goal of the project is to evaluate and compare Deep Learning algorithms for the detection of pathological myopia on a common dataset of retinal fundus images.
 
 
-In this Project I have used two Deep Learning Architectures:-
+In this project, I have used two Deep Learning Architectures:-
 
 1. Residual Neural Network(ResNet50)
 
@@ -26,7 +26,7 @@ The formulation of F(x)+x can be realized by feedforward neural networks with sh
 * ResNets are easy to optimize, but the “plain” networks (that simply stack layers) shows higher training error when the depth increases.
 * ResNets can easily gain accuracy from greatly increased depth, producing results which are better than previous networks.
 
-In this project I have used ResNet-50 which contains 50 parameter layers.
+In this project, I have used ResNet-50 which contains 50 parameter layers.
 
 ## DenseNet
 
@@ -42,7 +42,7 @@ Traditional convolutional networks with L layers have L connections — one betw
 * Encourage feature reuse.
 * Substantially reduce the number of parameters.
 
-In this project I have used DenseNet-121 which contains 121 parameter layers.
+In this project, I have used DenseNet-121 which contains 121 parameter layers.
 
 
 
