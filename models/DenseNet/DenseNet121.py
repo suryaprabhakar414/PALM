@@ -14,11 +14,6 @@ from keras.preprocessing.image import ImageDataGenerator
 from keras.callbacks import ModelCheckpoint, ReduceLROnPlateau
 random.seed(1)
 
-
-pm = "D:\Python Scripts\PALM\data\PM"  
-X_train=[]
-y_train = []
-
 traingen=ImageDataGenerator(rescale=1./255,
                     rotation_range=0.2,
                     width_shift_range=0.05,
